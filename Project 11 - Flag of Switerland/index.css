@@ -1,0 +1,27 @@
+:root {
+  --white: #fff;
+  --red: #ff0002;
+  --flag-hw: 200px;
+}
+
+.flag-switzerland {
+  height: var(--flag-hw);
+  width: var(--flag-hw);
+  background: var(--red);
+  margin: 30px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.cross {
+  width: calc(var(--flag-hw) * 5 / 8);
+  height: calc(var(--flag-hw) * 3 / 16);
+  background-color: var(--white);
+}
+
+.cross2 {
+  transform: rotate(90deg);
+  position: absolute;
+}

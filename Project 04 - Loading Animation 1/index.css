@@ -1,0 +1,36 @@
+:root {
+  --color-light: lightgray;
+  --color-dark: darkgray;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.circle {
+  width: 1.5em;
+  height: 1.5em;
+  margin: 0.5em;
+  border-radius: 50%;
+  animation: pulse infinite alternate 1s; /*animation called "pulse", done for infinite times, play it backward and forward, lasts for 1sec*/
+}
+
+@keyframes pulse {
+  from {
+    background-color: var(--color-dark);
+  }
+  to {
+    background-color: var(--color-light);
+    width: 1.6em;
+    height: 1.6em;
+  }
+}

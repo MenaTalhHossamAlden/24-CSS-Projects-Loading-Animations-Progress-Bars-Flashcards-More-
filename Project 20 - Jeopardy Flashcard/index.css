@@ -8,3 +8,42 @@ body {
   --jeopardy-blue: #060ce9;
   --font-color-main: #fff;
 }
+
+.card {
+  height: 200px;
+  width: 350px;
+  background: var(--jeopardy-blue);
+  border-radius: 10px;
+  color: var(--font-color-main);
+  padding: 2em;
+  margin: 2em auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  transition: transform 0.6s;
+  transform-style: preserve-3d; /*ensure children of card exists in 3d space*/
+}
+
+.card-back {
+  display: none;
+}
+
+.card:hover {
+  transform: rotateY(180deg);
+}
+
+.card:hover .card-back {
+  display: block;
+  transform: rotateY(180deg);
+}
+
+.card:hover .card-front {
+  display: none;
+}
+
+.card-front,
+.card-back {
+  backface-visibility: hidden;
+}

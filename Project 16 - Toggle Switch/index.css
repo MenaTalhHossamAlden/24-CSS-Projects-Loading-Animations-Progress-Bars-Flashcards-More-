@@ -1,0 +1,50 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--main-bg);
+}
+
+:root {
+  --main-bg: #ced0e2;
+  --toggle-switch-bg: #232428;
+  --toggle-border: #232428;
+  --toggle-bg: #fff;
+  --circle-size: 20px;
+  --toggle-width: 50px;
+}
+
+.toggle-wrap {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+label {
+  width: var(--toggle-width);
+  height: var(--circle-size);
+  border-radius: 40px;
+  border: 3px solid var(--toggle-border);
+  position: relative;
+  padding: 0.25em;
+  background: var(--toggle-bg);
+}
+
+.toggle-input {
+  display: none;
+}
+
+.toggle-switch {
+  height: var(--circle-size);
+  width: var(--circle-size);
+  border-radius: 50%;
+  background: var(--toggle-switch-bg);
+  position: absolute;
+  top: 5px;
+  transition: all 0.5s;
+}
+
+.toggle-input:checked ~ .toggle-switch {
+  transform: translateX(calc(var(--toggle-width) - var(--circle-size)));
+}

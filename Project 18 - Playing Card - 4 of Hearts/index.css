@@ -1,0 +1,51 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --card-height: 200px;
+  --card-width: calc(var(--card-height) * 2 / 3);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin: 2em;
+}
+
+.card {
+  height: var(--card-height);
+  width: var(--card-width);
+  border-radius: 5px;
+  border: 1px solid black;
+  display: grid;
+  grid-template-columns: 10% 80% 10%;
+  color: red;
+  padding: 0.25em;
+  font-size: 1.25em;
+}
+
+.middle {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  align-items: center;
+  text-align: center;
+  font-size: 2em;
+}
+
+.middle > div:nth-child(3),
+.middle > div:nth-child(4) {
+  /* transform: rotate(180deg); */
+  transform: scaleY(-1);
+}
+
+.right {
+  transform: rotate(180deg);
+}
+
+.right > div:first-child,
+.left > div:first-child {
+  padding-left: 2px;
+}

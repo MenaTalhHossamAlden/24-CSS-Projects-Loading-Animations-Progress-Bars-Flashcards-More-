@@ -10,3 +10,36 @@ body {
   --middle: blue;
   --finish: green;
 }
+
+.container {
+  margin: 3em auto;
+  width: 80%;
+}
+
+.progress-bar {
+  width: 100%;
+  height: 1.5em;
+  border-radius: 20px;
+  background: var(--progressbar-bg);
+}
+
+.progress-status {
+  width: 10%;
+  background: var(--start);
+  animation: progress 6s linear infinite;
+}
+
+@keyframes progress {
+  50% {
+    width: 50%;
+    background: var(--middle);
+  }
+  75% {
+    width: 100%;
+    background: var(--finish);
+  }
+  100% {
+    width: 100%;
+    background: var(--finish);
+  }
+}

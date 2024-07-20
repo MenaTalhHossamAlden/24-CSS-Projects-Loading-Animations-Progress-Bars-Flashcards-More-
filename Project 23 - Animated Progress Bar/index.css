@@ -1,0 +1,12 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --progressbar-bg: lightgray;
+  --start: red;
+  --middle: blue;
+  --finish: green;
+}

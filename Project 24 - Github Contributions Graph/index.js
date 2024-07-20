@@ -34,3 +34,5 @@ function makeGraph() {
     graph.appendChild(graphWeek); // Append week to the graph
   }
 }
+
+makeGraph();

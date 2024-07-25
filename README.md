@@ -9,3 +9,6 @@ https://github.com/user-attachments/assets/5edf68ca-10a7-4a80-8972-730a19efe572
 ### Project 03 - Codepen Tile
 https://github.com/user-attachments/assets/daa5dead-25cb-4335-96f7-18e19b17e4dc
 
+### Project 04 - Loading Animation 1
+https://github.com/user-attachments/assets/ed776f6f-276b-4044-a2ac-b64fa119f481
+

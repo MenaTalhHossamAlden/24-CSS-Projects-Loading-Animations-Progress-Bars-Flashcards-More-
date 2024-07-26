@@ -12,3 +12,7 @@ https://github.com/user-attachments/assets/daa5dead-25cb-4335-96f7-18e19b17e4dc
 ### Project 04 - Loading Animation 1
 https://github.com/user-attachments/assets/ed776f6f-276b-4044-a2ac-b64fa119f481
 
+### Project 05 - Loading Animation 2
+https://github.com/user-attachments/assets/b5df86c3-f1d1-4888-af20-42bf5effe07f
+
+

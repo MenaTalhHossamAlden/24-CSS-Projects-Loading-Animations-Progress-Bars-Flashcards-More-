@@ -15,3 +15,6 @@ https://github.com/user-attachments/assets/ed776f6f-276b-4044-a2ac-b64fa119f481
 ### Project 05 - Loading Animation 2
 https://github.com/user-attachments/assets/f8c37c4f-62fa-47f2-9300-1b80708c968f
 
+### Project 06 - Archery Target
+![6](https://github.com/user-attachments/assets/9288254a-05ca-4d5f-95f1-3f719dfb18a0)
+

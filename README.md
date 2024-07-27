@@ -18,3 +18,6 @@ https://github.com/user-attachments/assets/f8c37c4f-62fa-47f2-9300-1b80708c968f
 ### Project 06 - Archery Target
 ![6](https://github.com/user-attachments/assets/9288254a-05ca-4d5f-95f1-3f719dfb18a0)
 
+### Project 07 - Word Carousel
+https://github.com/user-attachments/assets/209500be-6e2d-4050-9e5c-3c48aff28fcb
+

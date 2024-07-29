@@ -21,3 +21,4 @@ https://github.com/user-attachments/assets/f8c37c4f-62fa-47f2-9300-1b80708c968f
 ### Project 07 - Word Carousel
 https://github.com/user-attachments/assets/209500be-6e2d-4050-9e5c-3c48aff28fcb
 
+### Project 08 - Flag of France flag 🇫🇷

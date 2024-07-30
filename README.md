@@ -27,4 +27,6 @@ https://github.com/user-attachments/assets/209500be-6e2d-4050-9e5c-3c48aff28fcb
 ### Project 09 - Flag of Germany
 ![image](https://github.com/user-attachments/assets/7a1c5802-6cf9-43ee-89de-5337b31b2393)
 
+### Project 10 - Flag of Madagascar
+![image](https://github.com/user-attachments/assets/01c71207-1c1a-4418-95c1-9098a49b202f)
 

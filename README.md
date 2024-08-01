@@ -30,7 +30,11 @@ https://github.com/user-attachments/assets/209500be-6e2d-4050-9e5c-3c48aff28fcb
 ### Project 10 - Flag of Madagascar
 ![image](https://github.com/user-attachments/assets/01c71207-1c1a-4418-95c1-9098a49b202f)
 
-### Project 10 - Flag of Switzerland
+### Project 11 - Flag of Switzerland
 ![image](https://github.com/user-attachments/assets/63b335f6-1bbe-485a-bb00-5494c08e36ac)
+
+### Project 12 - Flag of Japan
+![image](https://github.com/user-attachments/assets/d547fe2c-3dc3-45a5-bad7-7d291c81a998)
+
 
 

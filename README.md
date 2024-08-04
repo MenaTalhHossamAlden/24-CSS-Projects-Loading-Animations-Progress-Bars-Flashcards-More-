@@ -39,6 +39,10 @@ https://github.com/user-attachments/assets/209500be-6e2d-4050-9e5c-3c48aff28fcb
 ### Project 13 - Flag of Sweden
 ![image](https://github.com/user-attachments/assets/9db03c07-b25d-4aee-82a7-bc4fa2ee1cff)
 
+### Project 14 - Flag of Niger
+![image](https://github.com/user-attachments/assets/235ff3cd-85c4-465a-a5c0-a29f2f469fe7)
+
+
 
 
 

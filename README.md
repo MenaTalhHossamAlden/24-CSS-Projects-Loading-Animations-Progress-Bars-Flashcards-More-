@@ -45,6 +45,11 @@ https://github.com/user-attachments/assets/209500be-6e2d-4050-9e5c-3c48aff28fcb
 ### Project 15 - Github Profile Layout
 https://github.com/user-attachments/assets/f6e58a0d-e254-44bd-b2fb-3cd34195b882
 
+### Project 16 - Toggle Switch
+https://github.com/user-attachments/assets/cedd69ae-1d69-4caa-b25c-b653362ca822
+
+
+
 
 
 

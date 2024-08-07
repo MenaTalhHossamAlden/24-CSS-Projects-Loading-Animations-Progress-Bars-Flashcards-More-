@@ -48,6 +48,10 @@ https://github.com/user-attachments/assets/f6e58a0d-e254-44bd-b2fb-3cd34195b882
 ### Project 16 - Toggle Switch
 https://github.com/user-attachments/assets/cedd69ae-1d69-4caa-b25c-b653362ca822
 
+### Project 17 - Playing Card - Ace of Spades
+![image](https://github.com/user-attachments/assets/f46df067-aa9f-4a6c-9514-5772ecadbc64)
+
+
 
 
 

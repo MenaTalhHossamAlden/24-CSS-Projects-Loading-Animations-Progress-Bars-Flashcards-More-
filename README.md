@@ -60,6 +60,11 @@ https://github.com/user-attachments/assets/cedd69ae-1d69-4caa-b25c-b653362ca822
 ### Project 20 - Jeopardy Flashcard
 https://github.com/user-attachments/assets/f9876d3e-7ae6-4665-a1ff-02fbe0c5f9bc
 
+### Project 21 - Loading Animation 3
+https://github.com/user-attachments/assets/77ee0a1b-2078-4c75-99ed-6e323e3f14b7
+
+
+
 
 
 

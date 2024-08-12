@@ -63,6 +63,10 @@ https://github.com/user-attachments/assets/f9876d3e-7ae6-4665-a1ff-02fbe0c5f9bc
 ### Project 21 - Loading Animation 3
 https://github.com/user-attachments/assets/77ee0a1b-2078-4c75-99ed-6e323e3f14b7
 
+### Project 22 - Instagram Stories Menu
+![image](https://github.com/user-attachments/assets/337c1805-c74f-4d94-a790-b0f957f89cd9)
+
+
 
 
 

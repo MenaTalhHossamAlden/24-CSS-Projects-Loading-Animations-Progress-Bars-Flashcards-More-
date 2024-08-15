@@ -66,6 +66,8 @@ https://github.com/user-attachments/assets/77ee0a1b-2078-4c75-99ed-6e323e3f14b7
 ### Project 22 - Instagram Stories Menu
 ![image](https://github.com/user-attachments/assets/337c1805-c74f-4d94-a790-b0f957f89cd9)
 
+### Project 23 - Animated Progress Bar
+https://github.com/user-attachments/assets/14407300-027c-4a0c-8de2-e06a265719b7
 
 
 

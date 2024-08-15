@@ -69,6 +69,10 @@ https://github.com/user-attachments/assets/77ee0a1b-2078-4c75-99ed-6e323e3f14b7
 ### Project 23 - Animated Progress Bar
 https://github.com/user-attachments/assets/14407300-027c-4a0c-8de2-e06a265719b7
 
+### Project 24 - Github Contributions Graph
+![image](https://github.com/user-attachments/assets/d352c80a-fc92-4da7-8d48-fe9596cd8bb0)
+
+
 
 
 
